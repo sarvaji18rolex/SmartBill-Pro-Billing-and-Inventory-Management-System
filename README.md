@@ -6,6 +6,7 @@ A complete, production-style billing and inventory management web application bu
 
 ## 🚀 Features
 
+
 | Feature | Details |
 |---|---|
 | **POS Billing** | Add products by click or barcode scan, live total with GST, discount, PDF invoice |
